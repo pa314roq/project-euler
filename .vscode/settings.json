@@ -5,6 +5,7 @@
         "linestyle",
         "mathrm",
         "newaxis",
+        "primality",
         "vlines",
         "xlabel",
         "xlim",
