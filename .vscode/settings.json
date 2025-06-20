@@ -1,11 +1,13 @@
 {
     "cSpell.words": [
+        "eratosthenes",
         "fontsize",
         "hlines",
         "linestyle",
         "mathrm",
         "newaxis",
         "primality",
+        "unsieved",
         "vlines",
         "xlabel",
         "xlim",
