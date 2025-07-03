@@ -6,6 +6,7 @@
         "linestyle",
         "mathrm",
         "newaxis",
+        "Numpy",
         "primality",
         "unsieved",
         "vlines",
